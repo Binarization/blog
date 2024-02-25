@@ -13,6 +13,14 @@ tags:
 
 
 
+
+
+项目地址：[Github](https://github.com/Binarization/filetransfer)
+
+在线预览：[Direct Transfer](https://transfer.binrz.com/)
+
+
+
 ## 1. 前言
 
 人们习惯使用即时聊天工具自带的文件传输功能（如QQ、微信）、网络云盘（百度网盘、蓝奏云、WeTransfer）。但这些应用服务没用点对点的文件传输机制，只支持单线程传输、需要中转服务器、步骤繁杂等流程。也需要下载客户端安装、注册、登录等步骤；传送的文件经过了应用服务器中转存在信息隐私风险等问题。

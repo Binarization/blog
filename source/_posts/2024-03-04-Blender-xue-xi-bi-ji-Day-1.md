@@ -126,7 +126,7 @@ tags:
 
 5. 预览窗口右上角切换“视图着色方式”为“渲染”（从右往左数第一个），点击旁边箭头打开下拉框，修改“渲染通道”为“漫射颜色”
 
-![](../img/post_assets/2024-03-04-Blender-xue-xi-bi-ji-Day-1/image-20240304175704735.webp
+![](../img/post_assets/2024-03-04-Blender-xue-xi-bi-ji-Day-1/image-20240304175704735.webp)
 
 ![](../img/post_assets/2024-03-04-Blender-xue-xi-bi-ji-Day-1/image-20240304175959875.webp)
 

@@ -111,4 +111,6 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+  content: false
   order_by: -date
+  template: './custom_feed.xml'
